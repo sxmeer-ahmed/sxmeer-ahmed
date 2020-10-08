@@ -34,9 +34,6 @@
   <img  align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60">
   <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
   </div>
-<div align="right"  >
-  <img align="center"  src="https://www.pikpng.com/pngl/m/268-2683342_blank-png-white-background-2000-x-3000-clipart.png" width="0.1">
-  
 
 <div>
   
