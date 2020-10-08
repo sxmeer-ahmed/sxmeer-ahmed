@@ -1,20 +1,15 @@
+<body >
 <img align="right" alt="GIF"  width="370px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
+</body>
+
+
+
+
+
 ### Hi there 👋 I am Sameer Ahmed
-<a href="https://www.linkedin.com/in/abhinandan-sharma-0a2633175/">
-  <img align="left" alt="Abhinanan's LinkdeIN" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.hackerrank.com/doomed_fellow">
-  <img align="left" alt="Abhinandan's HackerRank" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
-</a>
-<a href="https://www.codechef.com/users/abhi__824__/">
-  <img align="left" alt="Abhinandan's CodeChef" width="30px" height="30px" src="https://miro.medium.com/max/416/1*1W0-bbmt4iiEpp_pPrS0VQ.png" />
-</a>
-<a href="https://codeforces.com/profile/abdude824">
-  <img align="left" alt="Abhinandan's Codeforces" width="30px" height="30px" src="https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=s180-rw" />
-</a>
-</br>
-</br>
+
+
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
 - Competitive Coder
@@ -22,7 +17,35 @@
 - Opensource Enthusiast
 - Creativity which makes an IMPACT
 - Looking for Opportunities
-
+<br/>
+<p align = "right">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="65"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="65"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="65"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="65"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="65"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="65"><br><br>
+  
+</p>
+<br/>
+<br>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  <br/>
 
 ## Current Projects
 
@@ -31,8 +54,6 @@
 | [**Game of CODES**](https://github.com/abhi-824/Game-of-CODES) | [![GitHub issues](https://img.shields.io/github/issues/abhi-824/Game-of-CODES?color=green&logo=github&style=flat)](https://github.com/abhi-824/Game-of-CODES/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhi-824/Game-of-CODES?style=flat&logo=github)](https://github.com/abhi-824/Game-of-CODES/pulls)  | [![GitHub Commits](https://img.shields.io/github/commit-activity/y/abhi-824/Game-of-CODES?style=flat&color=critical&logo=github)](https://github.com/abhi-824/Game-of-CODES/commits/master)  |[![GitHub Stars](https://img.shields.io/github/stars/abhi-824/Game-of-CODES?style=social)](https://github.com/abhi-824/Game-of-CODES/stargazers) |
 
 
-<br/>
-<br/>
 
 ## I WORK ON 
 <table>
