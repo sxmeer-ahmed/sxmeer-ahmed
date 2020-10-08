@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="370px" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="GIF"  width="370px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 ### Hi there 👋 I am Sameer Ahmed
 <a href="https://www.linkedin.com/in/abhinandan-sharma-0a2633175/">
