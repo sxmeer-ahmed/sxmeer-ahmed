@@ -20,7 +20,6 @@
 - Creativity which makes an IMPACT
 - Looking for Opportunities
 <br/>
-<div align="right">
 <a align="right">
   <img align="right"  src="https://www.pikpng.com/pngl/m/268-2683342_blank-png-white-background-2000-x-3000-clipart.png" width="0.1">
   <img align="right"  src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60">
@@ -30,11 +29,8 @@
   <img  align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60">
   <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
   <a/>
-  </div>
-  <br><br>
   
 
-<br/>
 
   
 
