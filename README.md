@@ -21,13 +21,13 @@
 - Looking for Opportunities
 <br/>
 <a align="right">
-  <img align="right"  src="https://www.pikpng.com/pngl/m/268-2683342_blank-png-white-background-2000-x-3000-clipart.png" width="0.1">
-  <img align="right"  src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60">
-  <img align="right" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60">
-  <img align="right" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60">
-  <img align="right" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="60">
-  <img  align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60">
-  <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
+  <img align="center"  src="https://www.pikpng.com/pngl/m/268-2683342_blank-png-white-background-2000-x-3000-clipart.png" width="0.1">
+  <img align="right"  src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="45">
+  <img align="right" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="45">
+  <img align="right" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45">
+  <img align="right" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="45">
+  <img  align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="45">
+  <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="45">
   <a/>
   
 
