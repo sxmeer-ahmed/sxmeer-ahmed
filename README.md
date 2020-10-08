@@ -1,7 +1,7 @@
 <body >
   <marquee>
     <div style="display:flex;flex-direction=column">
-<img align="right" alt="GIF"  width="378" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" alt="GIF"  width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
     <marquee/>
 
   </div>
