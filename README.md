@@ -1,3 +1,8 @@
+<br>
+<p align="center">
+  <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+ 
+</p>
 <body >
   <marquee>
     <div style="display:flex;flex-direction=column">
@@ -24,17 +29,7 @@
 <br/>
 
   <br><br>
-<div align="right"  >
-  <img align="center"  src="https://www.pikpng.com/pngl/m/268-2683342_blank-png-white-background-2000-x-3000-clipart.png" width="0.0000000001">
-
-  <img align="right"  src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="44">
-  <img align="right" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="44">
-  <img align="right" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="44">
-  <img align="right" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="44">
-  <img  align="right" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="44">
-  <img align="right" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="44">
-  </div>
-
+<hr>
 <div>
   
   ## Connect with me
@@ -60,11 +55,54 @@
 </div>  
   <br/>
 
-## Current Projects
+<hr>
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Commits :fire:  | Stars :star: |
-|-------------|-------------------|---|---|---|
-| [**Game of CODES**](https://github.com/abhi-824/Game-of-CODES) | [![GitHub issues](https://img.shields.io/github/issues/abhi-824/Game-of-CODES?color=green&logo=github&style=flat)](https://github.com/abhi-824/Game-of-CODES/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhi-824/Game-of-CODES?style=flat&logo=github)](https://github.com/abhi-824/Game-of-CODES/pulls)  | [![GitHub Commits](https://img.shields.io/github/commit-activity/y/abhi-824/Game-of-CODES?style=flat&color=critical&logo=github)](https://github.com/abhi-824/Game-of-CODES/commits/master)  |[![GitHub Stars](https://img.shields.io/github/stars/abhi-824/Game-of-CODES?style=social)](https://github.com/abhi-824/Game-of-CODES/stargazers) |
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+
+<hr>
+
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=gotham"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
+</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+
+<!--
+**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+
+-->
 
 
 
