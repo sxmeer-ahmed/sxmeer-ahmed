@@ -45,7 +45,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="100%" height="137px" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"/><!-- wi*quL3fcV --><a align="right" href="https://github.com/muskanrani/github-readme-stats"><img height="137" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=gotham" /></a>
 
 <hr>
 
