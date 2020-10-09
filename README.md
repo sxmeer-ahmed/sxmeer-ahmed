@@ -18,7 +18,8 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 - ⚛️ Building open source [react native components][rn-toolkit]
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 <hr>
-<div<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me</h2>
+<div>
   
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
