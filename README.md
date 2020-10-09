@@ -18,9 +18,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 - ⚛️ Building open source [react native components][rn-toolkit]
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 <hr>
-<div>
-  
-  ## Connect with me
+<div<h2 align="center">Connect with me</h2>
   
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -45,7 +43,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 <hr>
 <h2 align="center">Github Statistics</h2>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="155px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gotham" /><!-- wi*quL3fcV --><img align="" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&theme=gotham" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gotham" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&theme=gotham" /></a>
 <hr>
 
 <h2 align="center">Repositories</h2>
