@@ -50,7 +50,9 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 
 <hr>
 <h2 align="center">Github Statistics</h2>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gotham" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&theme=gotham" /></a>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=gotham" alt="languages" height="165">
+</p>
 <hr>
 
 <h2 align="center">Repositories</h2>
