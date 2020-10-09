@@ -3,32 +3,20 @@
   <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
  
 </p>
-<body >
-  <marquee>
-    <div style="display:flex;flex-direction=column">
-<img align="right" alt="GIF"  width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-    <marquee/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
 
-  </div>
+### I'm [Dani Akash][homepage]
 
+A JavaScript developer from Chennai. I love building applications & discussing new product ideas. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/dani_akash_?style=for-the-badge)][reddit]
 
+### I'm Currently
 
-
-  
-### Hi there 👋 I am Sameer Ahmed
-
-
-
-- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
-- Competitive Coder
-- I ❤️ to work on Web as well !!
-- Opensource Enthusiast
-- Creativity which makes an IMPACT
-- Looking for Opportunities
-<br/>
-
-  <br><br>
+- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
+- 📚 Mentoring budding programmers
+- ⚛️ Building open source [react native components][rn-toolkit]
+- 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
 <hr>
 <div>
   
