@@ -44,9 +44,8 @@ A JavaScript developer from Chennai. I love building applications & discussing n
   <br/>
 
 <hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="left" width="100%" height="137px" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"/><!-- wi*quL3fcV --><a align="right" href="https://github.com/muskanrani/github-readme-stats"><img height="137" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=gotham" /></a>
-
+<h2 align="center">Github Statistics</h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="" height="155px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gotham" /><!-- wi*quL3fcV --><img align="" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&hide_border=true&layout=compact&theme=gotham" /></a>
 <hr>
 
 <h2 align="center">Repositories</h2>
