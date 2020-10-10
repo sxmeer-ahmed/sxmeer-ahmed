@@ -27,10 +27,10 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 <h2 align="center">Connect with me</h2>
 <div>
   
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/sxmeer-ahmed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/dukhi_insaan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/rishavanand" target="_blank">
@@ -51,7 +51,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 <hr>
 <h2 align="center">Github Statistics</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=gotham" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=sxmeer-ahmed&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxmeer-ahmed&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
 <hr>
 
