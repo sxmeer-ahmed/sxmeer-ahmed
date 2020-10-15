@@ -51,7 +51,7 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 <hr>
 <h2 align="center">Github Statistics</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sxmeer-ahmed&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxmeer-ahmed&layout=compact&theme=gotham" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=sxmeer-ahmed&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham" alt="languages" height="165">
 </p>
 <hr>
 
