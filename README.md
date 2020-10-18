@@ -20,10 +20,10 @@
 
 ### I'm Currently
 
-- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
-- 📚 Mentoring budding programmers
-- ⚛️ Building open source [react native components][rn-toolkit]
-- 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
+- <h4>📱Programmer but not a pro in grammar<h4/>
+- 📚 Competitve Coder
+- ⚛️ I ❤️ Android
+- 👷🏽‍♂️Looking for Opportunities
 <hr>
 <h2 align="center">Connect with me</h2>
 <div align="center" >
