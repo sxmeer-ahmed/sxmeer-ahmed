@@ -106,7 +106,7 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 
 
 
-## I WORK ON 
+<h2 align="center">Things I code with</h2>
 <table>
   <tbody>
     <tr valign="top">
@@ -171,6 +171,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="center">My Latest Tweet</h2>
+<a href="https://twitter.com/cardio_coder_" target="_blank">
+	<img align="center" src="Screenshot 2020-10-18 231818.png" width="40%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+</a>
 </body>
 <div align="center">
 
