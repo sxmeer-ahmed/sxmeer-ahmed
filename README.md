@@ -3,7 +3,7 @@
   <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 
 </p>
-<img align="left" width="350" height="150" alt="Dani Akash" src="https://little.kylerconway.com/images/golang-what.gif"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="ezgif.com-gif-maker (1).gif"/>
 
 <h1>I'm <a  href="https://techytushar.github.io/">Sameer Ahmed</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="left">
