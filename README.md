@@ -45,9 +45,11 @@ A JavaScript developer from Chennai. I love building applications & discussing n
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
   <br/>
-
+  <p align="center">
+ <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+</p>
 <hr>
 <h2 align="center">Github Statistics</h2>
 <p align="left">
