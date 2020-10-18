@@ -110,45 +110,45 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>𝗖++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>HTML5</span><br><br><br>
         <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
       </td>
-       <td width="25%" align="center">
+       <td width="50%" align="center">
         <span>FireBase</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
       </td>
-       <td width="25%" align="center">
+       <td width="50%" align="center">
         <span>MongoDb Atlas</span><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>Sublime</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>Figma</span><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png">
       </td>
-       <td width="25%" align="center">
+       <td width="50%" align="center">
         <span>Flutter</span><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
       </td>
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
       </td>
@@ -172,11 +172,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">My Latest Tweet</h2>
-<a href="https://twitter.com/cardio_coder_" target="_blank">
-	<img align="center" src="Screenshot 2020-10-18 231818.png" width="40%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
-</body>
-<div align="center">
+<p align="center">
+<img align="center" src="Screenshot 2020-10-18 231818.png" width="40%"/>
+<p/>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
