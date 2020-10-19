@@ -92,7 +92,7 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 
 
 <h2 align="center">Things I code with</h2>
-<table>
+<table width="100%">
   <tbody>
     <tr>
       <td width="25%" align="center">
