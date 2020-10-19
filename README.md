@@ -95,46 +95,46 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 <table>
   <tbody>
     <tr valign="top">
-      <td width="70%" align="leftr">
-        <span>𝗖++</span><br><br><br>
+      <td width="70%" align="center">
+        <span>𝗖++</span><br><br><br><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
       </td>
-      <td width="70%" align="left">
-        <span>HTML5</span><br><br><br>
+      <td width="70%" align="center">
+        <span>HTML5</span><br><br><br><br><br><br>
         <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
       </td>
       <td width="70%" align="center">
-        <span>CSS</span><br><br><br>
+        <span>CSS</span><br><br><br><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
       </td>
-       <td width="70%" align="right">
-        <span>FireBase</span><br><br><br>
+       <td width="70%" align="center">
+        <span>FireBase</span><br><br><br><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
       </td>
-       <td width="70%" align="right">
-        <span>MongoDb Atlas</span><br><br><br>
+       <td width="70%" align="center">
+        <span>MongoDb Atlas</span><br><br><br><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
       </td>
     </tr>
     <tr valign="top">
-      <td width="70%" align="left">
-        <span>Sublime</span><br><br><br>
+      <td width="70%" align="center">
+        <span>Sublime</span><br><br><br><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
       </td>
-      <td width="70%" align="left">
-        <span>JavaScript</span><br><br><br>
+      <td width="70%" align="center">
+        <span>JavaScript</span><br><br><br><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
       </td>
       <td width="70%" align="center">
-        <span>Figma</span><br><br><br>
+        <span>Figma</span><br><br><br><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png">
       </td>
-       <td width="70%" align="right">
-        <span>Flutter</span><br><br><br>
+       <td width="70%" align="center">
+        <span>Flutter</span><br><br><br><br><br><br>
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
       </td>
-      <td width="70%" align="right">
-        <span>NodeJs</span><br><br><br>
+      <td width="70%" align="center">
+        <span>NodeJs</span><br><br><br><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
       </td>
       
