@@ -94,9 +94,9 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 <h2 align="center">Things I code with</h2>
 <table>
   <tbody>
-    <tr valign="top">
+    <tr>
       <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
+        <span>C++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
       </td>
       <td width="25%" align="center">
@@ -116,7 +116,7 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
         <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
       </td>
     </tr>
-    <tr valign="top">
+    <tr>
       <td width="25%" align="center">
         <span>Sublime</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
