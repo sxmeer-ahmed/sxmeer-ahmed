@@ -92,10 +92,10 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 
 
 <h2 align="center">Things I code with</h2>
-<table width="100%">
+<table>
   <tbody>
     <tr>
-      <td width="25%" align="center">
+      <td width="100%" align="center">
         <span>C++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
       </td>
