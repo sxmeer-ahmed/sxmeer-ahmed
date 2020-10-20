@@ -156,10 +156,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">My Latest Tweet</h2>
-<p align="center">
-<img align="center" src="Screenshot 2020-10-18 231818.png" width="40%"/>
-<p/>
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
