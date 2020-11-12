@@ -9,9 +9,9 @@
 <p align="left">
 <a href="https://twitter.com/cardio_coder_" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sameer-ahmed-2001/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/another_noob_guy/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/4Ld5iM9Kn0qxc4jqR30Ck2?si=oUV8JsDnS2GW9DWv65Lo8Q" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111627.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/coca.cola.coder/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p style="color:red">An Android developer from New Delhi. I love building applications & discussing new product ideas.</p>
@@ -37,13 +37,13 @@
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://www.linkedin.com/in/sameer-ahmed-2001/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/coca.cola.coder/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://www.instagram.com/another_noob_guy/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
