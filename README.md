@@ -16,10 +16,10 @@
 
 <p style="color:red">A Flutter developer from New Delhi. I love building applications & discussing new product ideas.</p>
 
-
+<img align="right" width="300" height="150" src="ezgif.com-gif-maker.gif"/>
 
 ### I'm Currently
-<img align="right" width="300" height="150" src="ezgif.com-gif-maker.gif"/>
+
 
 - <h4>📱Programmer but not a pro in grammar<h4/>
 - 📚 Competitve Coder
