@@ -19,11 +19,16 @@
 
 
 ### I'm Currently
+<img align="right" width="300" height="180" src="ezgif.com-gif-maker.gif"/>
 
 - <h4>📱Programmer but not a pro in grammar<h4/>
 - 📚 Competitve Coder
 - ⚛️ I ❤️ Android
 - 👷🏽‍♂️Looking for Opportunities
+  
+  
+  
+  <hr>
 <hr>
 <h2 align="center">Connect with me</h2>
 <div align="center" >
