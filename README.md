@@ -14,7 +14,7 @@
 <a href="https://www.facebook.com/coca.cola.coder/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p style="color:red">A Flutter developer from New Delhi. I love building applications & discussing new product ideas.</p>
+<h4/>A Flutter developer from New Delhi. I love building applications & discussing new product ideas.<h4/>
 
 <img align="right" width="350" height="180" src="ezgif.com-gif-maker.gif"/>
 
