@@ -19,7 +19,7 @@
 
 
 ### I'm Currently
-<img align="right" width="380" height="220" src="ezgif.com-gif-maker.gif"/>
+<img align="right" width="300" height="150" src="ezgif.com-gif-maker.gif"/>
 
 - <h4>📱Programmer but not a pro in grammar<h4/>
 - 📚 Competitve Coder
