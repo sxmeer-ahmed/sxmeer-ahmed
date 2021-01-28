@@ -109,54 +109,14 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 
 
 <h2 align="center">Things I code with</h2>
-<table>
-  <tbody>
-    <tr>
-      <td width="100%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
-      </td>
-       <td width="25%" align="center">
-        <span>FireBase</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/firebase.png">
-      </td>
-       <td width="25%" align="center">
-        <span>MongoDb Atlas</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png">
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <span>Sublime</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Figma</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/figma-682083.png">
-      </td>
-       <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
-      </td>
-      <td width="25%" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
-      </td>
-      
-  </tbody>
-</table>
+<p align="center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+</p>
 
 
 <!--
