@@ -66,7 +66,7 @@
 </div> 
   <br/>
   <p align="center">
- <img src="ezgif.com-gif-maker (4).gif" widht="500">
+ <img src="ezgif.com-gif-maker (4).gif" widht="1000" height="200">
 </p>
 <hr>
 <h2 align="center">Github Statistics</h2>
