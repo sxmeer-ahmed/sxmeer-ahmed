@@ -72,8 +72,9 @@
 <h2 align="center">Github Statistics</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sxmeer-ahmed&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxmeer-ahmed&layout=compact&theme=gotham" alt="languages" height="165">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmeer-ahmed&" alt="sxmeer-ahmed" /></p>
+  
 </p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmeer-ahmed&" alt="sxmeer-ahmed" /></p>
 
 <p align="center">
  <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
