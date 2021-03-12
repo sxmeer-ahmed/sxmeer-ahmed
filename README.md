@@ -24,10 +24,9 @@
 
 
 - <h4><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>Programmer but not a pro in grammar<h4/>
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Competitve Coder
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>  I ❤️ Android
-- <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>Looking for Opportunities
-<h4> ‍ <h4/>
+- <h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">Competitve Coder<h4/>
+- <h4><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>I ❤️ Android<h4/>
+- <h4><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>Looking for Opportunities<h4/>
   
 <h4/>
 
