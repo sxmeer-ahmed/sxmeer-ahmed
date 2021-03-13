@@ -20,10 +20,10 @@
 
 ### I'm Currently
 
-
+ <img align="right" width="400" height="220" src="ezgif.com-gif-maker.gif"/>
 
 - <h4>Programmer but not a pro in grammar<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/><h4/>
-  <img align="right" width="400" height="220" src="ezgif.com-gif-maker.gif"/>
+ 
 - <h4>Competitve Coder<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"><h4/>
 - <h4>I ❤️ Android<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/><h4/>
 - <h4>Looking for Opportunities<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/><h4/>
