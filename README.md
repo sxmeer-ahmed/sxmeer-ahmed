@@ -43,7 +43,7 @@
   
   
 <hr>
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me<img  src="https://i.imgur.com/WkC2Lqe.gif" width="100px"></h2>
 <div align="center" >
   
 <a href="https://github.com/sxmeer-ahmed" target="_blank">
