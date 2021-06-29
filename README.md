@@ -78,7 +78,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmeer-ahmed&layout=compact&theme=gotham" alt="sxmeer-ahmed" /></p>
 <p align="center">
     <a href="https://github.com/sxmeer-ahmed/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sxmeer-ahmed&theme=dracula" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sxmeer-ahmed&layout=compact&theme=gotham" />
   </a>
 </p>
 <p align="center">
