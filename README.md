@@ -7,8 +7,8 @@
 
 <h1>I'm <a  href="https://sxmeer-ahmed.github.io/">Sameer Ahmed</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="left">
-<a href="https://twitter.com/cardio_coder_" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sameer-ahmed-2001/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/cardio_coder_" target="_blank"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sameer-ahmed-2001/" target="_blank"><img height="30" src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sameer.apk/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/4Ld5iM9Kn0qxc4jqR30Ck2?si=oUV8JsDnS2GW9DWv65Lo8Q" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111627.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/coca.cola.coder/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
